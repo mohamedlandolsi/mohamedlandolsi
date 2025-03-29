@@ -4,26 +4,7 @@
 
 ###
 
-<div align="center">
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mohamedlandolsi.mohamedlandolsi&"  />
-</div>
-
-###
-
 <h1 align="center">Hey There 👋</h1>
-
-###
-
-<h3 align="left"></h3>
-
-###
-
-<p align="left"></p>
 
 ###
 
