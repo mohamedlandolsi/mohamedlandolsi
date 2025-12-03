@@ -2,7 +2,7 @@
   
   <!-- Dynamic Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+AI+Engineer;Building+RAG+Systems+%26+LLM+Agents;Final+Year+Software+Engineering+Student;Open+to+Opportunities+in+Europe" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+AI+Engineer;Building+RAG+Systems+%26+LLM+Agents;Final+Year+Software+Engineering+Student" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -24,38 +24,34 @@
 
 ---
 
-### 🧠 AI & Machine Learning
+### 🧠 AI & Advanced Engineering
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
-  <!-- Custom Badges for new Tech not always in standard icon sets -->
+  <!-- Core AI -->
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
   <br/>
+  <!-- Frameworks & Tools -->
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LlamaIndex-121212?style=for-the-badge&logo=llama&logoColor=orange" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Systems-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Eng-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </div>
 
 ### 💻 Full-Stack Development
 <div align="center">
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,js,html,css" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
   <br/><br/>
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,laravel,symfony,php" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel,php,python" />
   <br/><br/>
-  <!-- Database -->
+  <!-- Database & ORM -->
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,prisma" />
+  <img src="https://img.shields.io/badge/Vector_DB-FF4F00?style=for-the-badge&logo=firebase&logoColor=white" />
 </div>
 
-### 🛠️ Tools & DevOps
+### 🛠️ Tools, DevOps & Automation
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel" />
-</div>
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedlandolsi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedlandolsi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="languages graph" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,selenium" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </div>
