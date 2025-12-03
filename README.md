@@ -2,7 +2,7 @@
   
   <!-- Dynamic Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+AI+Engineer;Building+RAG+Systems+%26+LLM+Agents;Final+Year+Software+Engineering+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+AI+Engineer;Building+RAG+Systems+%26+LLM+Agents" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -27,7 +27,7 @@
 ### 🧠 AI & Advanced Engineering
 <div align="center">
   <!-- Core AI -->
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python" />
   <br/>
   <!-- Frameworks & Tools -->
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white" />
