@@ -39,11 +39,11 @@
 ### 💻 Full-Stack Development
 <div align="center">
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css" />
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
   <br/><br/>
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel,php,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel,python" />
   <br/><br/>
   <!-- Database & ORM -->
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,prisma" />
