@@ -1,57 +1,50 @@
 <div align="center">
-  
-  <!-- Dynamic Typing Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+AI+Engineer;Building+RAG+Systems+%26+LLM+Agents" alt="Typing SVG" />
-  </a>
 
-  <p align="center">
-    👋 I'm a software engineer specializing in unifying modern web technologies with Artificial Intelligence. 
-    <br/>
-    Currently building <b>AI-powered SaaS</b> platforms and exploring <b>Agentic Workflows</b>.
-  </p>
+# Mohamed Landolsi
 
-  <!-- Social Links -->
-  <p align="center">
-    <a href="https://linkedin.com/in/mohamedlandolsi">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:mohamedlandolsi300@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+### Technical Business Analyst
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohamedlandolsi.tech-1a1a1a?style=flat-square)](https://www.mohamedlandolsi.tech/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedlandolsi/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedlandolsi300@gmail.com)
+
 </div>
 
----
+<br>
 
-### 🧠 AI & Advanced Engineering
-<div align="center">
-  <!-- Core AI -->
-  <img src="https://skillicons.dev/icons?i=python" />
-  <br/>
-  <!-- Frameworks & Tools -->
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG_Systems-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt_Eng-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</div>
+I come from a software engineering background and now work on the analysis side, turning business
+problems into requirements an engineering team can build from. During my final year internship I
+handled stakeholder analysis, functional and non-functional requirements, BPMN process design, use
+case modeling, requirements traceability, and KPI definition for a multi-service B2B platform.
 
-### 💻 Full-Stack Development
-<div align="center">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <br/><br/>
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel,python" />
-  <br/><br/>
-  <!-- Database & ORM -->
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,prisma" />
-  <img src="https://img.shields.io/badge/Vector_DB-FF4F00?style=for-the-badge&logo=firebase&logoColor=white" />
-</div>
+Based in Tunisia. Open to remote roles and relocation.
 
-### 🛠️ Tools, DevOps & Automation
+<br>
+
+**What I work with**
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+<br>
+
+**Focus areas**
+
+- Requirements engineering: functional/non-functional specs, user stories, acceptance criteria
+- Process and data modeling: BPMN, UML use case diagrams, ERDs
+- Stakeholder analysis and gap analysis
+- Requirements traceability and prioritization
+- Agile delivery: backlog management, sprint planning, KPI design
+
+<br>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,selenium" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+
+Open to new opportunities, always happy to talk through a project.
+
 </div>
