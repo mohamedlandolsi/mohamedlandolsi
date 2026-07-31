@@ -13,9 +13,9 @@
 <br>
 
 I come from a software engineering background and now work on the analysis side, turning business
-problems into requirements an engineering team can build from. During my final year internship I
-handled stakeholder analysis, functional and non-functional requirements, BPMN process design, use
-case modeling, requirements traceability, and KPI definition for a multi-service B2B platform.
+problems into requirements an engineering team can build from. I handle stakeholder analysis, 
+functional and non-functional requirements, BPMN process design, use case modeling, 
+requirements traceability, and KPI definition for a multi-service B2B platform.
 
 Based in Tunisia. Open to remote roles and relocation.
 
