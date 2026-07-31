@@ -15,7 +15,7 @@
 I come from a software engineering background and now work on the analysis side, turning business
 problems into requirements an engineering team can build from. I handle stakeholder analysis, 
 functional and non-functional requirements, BPMN process design, use case modeling, 
-requirements traceability, and KPI definition for a multi-service B2B platform.
+requirements traceability, and KPI definition.
 
 Based in Tunisia. Open to remote roles and relocation.
 
@@ -24,12 +24,10 @@ Based in Tunisia. Open to remote roles and relocation.
 **What I work with**
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Camunda](https://img.shields.io/badge/Camunda-FC5D0D?style=flat-square&logo=camunda&logoColor=white)
 ![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 <br>
 
