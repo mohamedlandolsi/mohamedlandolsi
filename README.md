@@ -20,22 +20,6 @@ I build scalable AI workflows, lead enrichment pipelines, and custom integration
 
 <br>
 
-### 🚀 Featured Projects
-
-**🛰️ Job Radar | n8n Multi-Source Intelligence Pipeline**
-> A personal job-intelligence engine that ingests 9 free job sources daily, applies deterministic hard filters, and uses batched LLM scoring to output ranked, explainable matches.
-> - Architected a config-driven pipeline with deduplication, heuristic pre-filtering, and Google Sheets state management.
-> - Engineered a dual-provider LLM router (Cerebras → Groq fallback) with circuit-breaker patterns to eliminate single points of failure.
-> - Shipped operational telemetry and a Human-in-the-Loop review queue for downstream GTM outreach.
-
-**🏢 Wavess | Federated B2B SaaS for GTM Intelligence**
-> A multi-tenant platform unifying intent-data intelligence and LinkedIn outbound automation for European B2B clients.
-> - Built automated lead enrichment pipelines with **Apify** and **Tavily** to capture hiring intent signals, feeding an LLM-based ICP scoring engine.
-> - Developed a centralized AI workflow router with quota-aware fallback across 6 LLM providers, keeping >90% of API costs within free-tier limits.
-> - Orchestrated asynchronous background workers (**ARQ/Redis**) to process thousands of daily market signals with strict multi-tenant data isolation.
-
-<br>
-
 ### 🛠️ Tech Stack & Tools
 
 **GTM Automation & Integration**
